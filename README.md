@@ -1,2 +1,2 @@
-# python
-learning python 
+# Red Hat | Python Programming
+learning python , Exercises
