@@ -1,0 +1,5 @@
+text=input("Enter your text:")
+print(text.endswith("."))
+print(text.isalpha())
+print("x" in text)
+print(text.replace("e","E"))
